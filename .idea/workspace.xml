@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f238e1f-5456-4fca-8588-be5b400fd530" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataset_preprocessing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/dataset_holiday/combine_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/full_dataset/combined_tagged_recipes_by_holiday.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/full_dataset/combined_tagged_recipes_by_protein.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/full_dataset/combined_tagged_recipes_by_season.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_diet/combine_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_diet/combine_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_holiday/combine_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_holiday/combine_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_protein/combine_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_protein/combine_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_season/combine_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_season/combine_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_dataset/combine_csv_full_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/full_dataset/combine_csv_full_dataset.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +39,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.combine_csv.executor": "Run",
+    "Python.combine_csv_full_dataset.executor": "Run",
     "Python.combne_csv.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/dataset_preprocessing/datasets/full_dataset"
   }
 }]]></component>
@@ -54,6 +53,7 @@
       <recent name="D:\dataset_preprocessing\datasets\full_dataset" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dataset_preprocessing" />
       <recent name="D:\dataset_preprocessing\datasets\dataset_season" />
       <recent name="D:\dataset_preprocessing\datasets\dataset_protein" />
       <recent name="D:\dataset_preprocessing\datasets\dataset_holiday" />

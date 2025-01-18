@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Directory containing the CSV files
-folder_path = r"D:\dataset_preprocessing\datasets\dataset_season"
+folder_path = r"/dataset_season"
 
 # Dynamically generate file paths dictionary
 file_paths = {
